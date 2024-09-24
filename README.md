@@ -7,7 +7,7 @@
   EN-US
 
 
-I'am a studant of Sistem Analisis and Developing but actually i work in an construction site on safety officer technichan role.
+I'am a brazilian studant of Sistem Analisis and Developing graduation but actually i work in an construction site on safety officer technichan role.
 
 I'm in carrer transition to tech area, with focus on upgrade my .NET and C# habilities and React habilities in frontend to turn myself in a Fullstack Developer.
 
@@ -41,9 +41,12 @@ Conecte-se comigo.
   </a>
 </p>
 
-## GitHub Stats
+<h1 align="center">
+GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipedpb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<h1 align="center">
+WakaTime Stats
+
+<h1 align="center"><img src="https://wakatime.com/share/@felipebajerl/b58c42b1-754f-4002-8122-765512d467ad.svg" height="400"/)>
