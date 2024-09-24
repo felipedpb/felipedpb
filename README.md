@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Felipe Bajerl 
+  👋 Hi everyone ! I'am Felipe and this is my GitHub profile.
 </h1>
 
 ![hello world em outras linguas](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
