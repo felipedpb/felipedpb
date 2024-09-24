@@ -45,8 +45,3 @@ Conecte-se comigo.
 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipedpb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-<h1 align="center">
-WakaTime Stats
-
-<h1 align="center"><img src="https://wakatime.com/share/@felipebajerl/b58c42b1-754f-4002-8122-765512d467ad.svg" height="400"/)>
