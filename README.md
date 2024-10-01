@@ -39,7 +39,7 @@ Conecte-se comigo.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,azure,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,azure,git,github,vscode,mysql" />
   </a>
 </p>
 
