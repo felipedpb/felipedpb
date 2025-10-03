@@ -9,9 +9,9 @@
   EN-US
 
 
-I'am a brazilian studant of Sistem Analisis and Developing graduation but actually i work in an construction site on safety officer technichan role.
+I'am a brazilian studant of Computer Engineering graduation but actually i work in an construction site on safety officer technichan role.
 
-I'm in carrer transition to tech area, with focus on upgrade my .NET and C# habilities and React habilities in frontend to turn myself in a Fullstack Developer.
+I'm in carrer transition to tech area, with focus on keep learning and upgrading my hardskills in developing and logic.
 
 <H1 ALIGN="CENTER">
   Get connected with me.
@@ -22,9 +22,9 @@ I'm in carrer transition to tech area, with focus on upgrade my .NET and C# habi
   PT-BR
 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, porém atuo como técnico de segurança do trabalho no ramo da construção civil.
+Sou estudante de Engenharia da Computação, porém atuo como técnico de segurança do trabalho no ramo da construção civil.
 
-Estou em busca de migrar de carreira para a área tech, com aprimoramento de habilidades back-end focada em .NET e C# e front-end em React
+Estou em busca de migrar de carreira para a área tech, focando em aprimorar o meu aprendizado em lógica de programação e meus conhecimentos em linguagens de programação diversas vistas em sala de aula.
 
 <h1 align="center">
 
@@ -39,7 +39,7 @@ Conecte-se comigo.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,azure,git,github,vscode,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,python,aws,git,github,vscode,mysql" />
   </a>
 </p>
 
